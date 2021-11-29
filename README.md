@@ -2,7 +2,7 @@
 
 #### Eu sou a Neilyane 👱‍♀️
 
-- 🔭 Formada em Adiministração e em processo de transição de carreira para a área de TI.
+- 🔭 Formada em Administração e em processo de transição de carreira para a área de TI.
 - 🌱 Atualmente estudando Python 
 - 😄 Pronouns: Ela / dela
 
