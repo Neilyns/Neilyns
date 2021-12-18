@@ -3,7 +3,7 @@
 #### Eu sou a Neilyane 👱‍♀️
 
 - 🔭 Formada em Administração e em processo de transição de carreira para a área de TI.
-- 🌱 Atualmente estudando Python 
+- 🌱 Atualmente estudando Python, HTML e CSS.
 - 😄 Pronouns: Ela / dela
 
 <div align="center">
